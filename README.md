@@ -1,0 +1,9 @@
+# AndroidApp
+![alt text](https://github.com/JamesGateway/AndroidApp/blob/master/Pic/65742549631daa43f30c.jpg)
+![alt text](https://github.com/JamesGateway/AndroidApp/blob/master/Pic/92c4b7f6f1a238fc61b3.jpg)
+![alt text](https://github.com/JamesGateway/AndroidApp/blob/master/Pic/0a896f038f7646281f67.jpg)
+![alt text](https://github.com/JamesGateway/AndroidApp/blob/master/Pic/51e6c4562d23e47dbd32.jpg)
+![alt text](https://github.com/JamesGateway/AndroidApp/blob/master/Pic/554a666a203ee960b02f.jpg)
+![alt text](https://github.com/JamesGateway/AndroidApp/blob/master/Pic/d2be729434c0fd9ea4d1.jpg)
+![alt text](https://github.com/JamesGateway/AndroidApp/blob/master/Pic/83064d240b70c22e9b61.jpg)
+![alt text](https://github.com/JamesGateway/AndroidApp/blob/master/Pic/e0abfe85b8d1718f28c0.jpg)
